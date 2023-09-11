@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <Student>
+        <FullName>Jhon Mark Malupa</FullName>
+        <BirthDay>2003-01-19</BirthDay>
+        <Address>Lipa City</Address>
+        <Course>BSIT</Course>
+        <YearLevel>3</YearLevel>
+    </Student>
+
+    <Student>
+        <FullName>Leomar Dela Cruz</FullName>
+        <BirthDay>2003-04-10</BirthDay>
+        <Address>Lipa City</Address>
+        <Course>BSIT</Course>
+        <YearLevel>3</YearLevel>
+    </Student>
+
+    <Student>
+      <FullName>Kevin Fabregas</FullName>
+      <BirthDay>2003-10-07</BirthDay>
+      <Address>San Jose Lipa City</Address>
+      <Course>BSIT</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>James Poblete</FullName>
+      <BirthDay>2002-04-17</BirthDay>
+      <Address>Lipa City</Address>
+      <Course>BSIT</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Roberto Solis</FullName>
+      <BirthDay>2003-05-15</BirthDay>
+      <Address>Granja Lipa City</Address>
+      <Course>BSIT</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Alvin Hombre</FullName>
+      <BirthDay>2003-12-12</BirthDay>
+      <Address>Lipa City</Address>
+      <Course>BSIT</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Marvin Cruz</FullName>
+      <BirthDay>2003-07-03</BirthDay>
+      <Address>Granja Lipa City</Address>
+      <Course>BSIT</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Michael Torres</FullName>
+      <BirthDay>2002-12-30</BirthDay>
+      <Address>Lipa City</Address>
+      <Course>BSIT</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Joshua Dimaano</FullName>
+      <BirthDay>2003-04-05</BirthDay>
+      <Address>Lipa City</Address>
+      <Course>BSIT</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Odlanyer Liaquen</FullName>
+      <BirthDay>2003-02-14</BirthDay>
+      <Address>Lipa City</Address>
+      <Course>BSCS</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Harvey Marasigan</FullName>
+      <BirthDay>2002-12-01</BirthDay>
+      <Address>Lipa City</Address>
+      <Course>BSCS</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Oliver Bacong</FullName>
+      <BirthDay>2002-11-30</BirthDay>
+      <Address>Lipa City</Address>
+      <Course>BSCS</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Max Daniel De Silva</FullName>
+      <BirthDay>2003-03-04</BirthDay>
+      <Address>Lipa City</Address>
+      <Course>BSCS</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Kenneth Lacorte</FullName>
+      <BirthDay>2003-08-09</BirthDay>
+      <Address>San Jose Lipa City</Address>
+      <Course>BSIT</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Ezekiel Cerezo</FullName>
+      <BirthDay>2002-11-05</BirthDay>
+      <Address>Lipa City</Address>
+      <Course>BSCS</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Daniel Raz</FullName>
+      <BirthDay>2003-03-08</BirthDay>
+      <Address>Lipa City</Address>
+      <Course>BSIT</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Laurence Falamig</FullName>
+      <BirthDay>2002-10-20</BirthDay>
+      <Address>Lipa City</Address>
+      <Course>BSCS</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Robin Calalo</FullName>
+      <BirthDay>2003-01-01</BirthDay>
+      <Address>Lipa City</Address>
+      <Course>BSIT</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Niel Macaraig</FullName>
+      <BirthDay>2002-06-09</BirthDay>
+      <Address>Lipa City</Address>
+      <Course>BSCS</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+
+   <Student>
+      <FullName>Kylie Bacus</FullName>
+      <BirthDay>2003-01-20</BirthDay>
+      <Address>Granja Lipa City</Address>
+      <Course>BSIT</Course>
+      <YearLevel>3</YearLevel>
+   </Student>
+</Students>
